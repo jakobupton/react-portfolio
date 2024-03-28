@@ -3,19 +3,19 @@
         {
             "name": "Joseph Richard Group",
             "skills": ["Sales", "Customer Service", "Teamwork"],
-            "description": "The website you're looking at! A personal project used to learn react and show off my projects and interests.",
+            "description": "Proficient bartender with expertise in crafting cocktails, providing exceptional customer service, and maintaining a clean and organized workspace. Skilled multitasker.",
             "years": ["2021", "Present"]
         },
         {
             "name": "Cactus Club Cafe",
             "skills": ["Communication", "Teamwork", "Customer Service"],
-            "description": "A mock movie-theater ticket booking website with a database backend. Features a login system, movie listings, and a cart system.",
+            "description": "Acquired expertise in mixology techniques, drink presentation, and customer engagement. Delivered outstanding service experiences.",
             "years": ["2018", "2021"]
         },
         {
             "name": "Safeway",
             "skills": ["Customer Service", "Invoicing", "Time Management"],
-            "description": "Java Swing GUI used to connect to a MySQL server and display databases. Has a function to remove or add elements, as well as a query box.",
+            "description": "Experienced in inventory control, stock rotation, and maintaining store cleanliness. Skilled in assisting customers and ensuring product freshness and organization.",
             "years": ["2014", "2018"]
         }
     ]
