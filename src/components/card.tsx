@@ -4,7 +4,7 @@ export default function Card() {
   return (
     <div className="flex text-neutral-100 justify-center">
         <div className="">
-            <img className="rounded-full h-28 me-5 hover:scale-105 transition"src="me.png"></img>
+            <img className="rounded-full h-28 me-5 hover:scale-105 transition" src="me.png" alt="Photo of Me"></img>
         </div>
         <div className="content-around">
             <h1 className="text-2xl">Jakob Upton</h1>
