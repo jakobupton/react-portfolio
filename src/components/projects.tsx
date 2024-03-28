@@ -19,7 +19,7 @@ export default function Projects() {
     }, []);
 
     return (
-        <div className="flex flex-wrap justify-center">
+        <div className="flex flex-wrap justify-center mb-16">
             <div className="">
                 <h3 className="text-xl text-white mb-4">Projects</h3>
                 <ul>
