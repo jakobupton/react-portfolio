@@ -1,0 +1,25 @@
+{
+    "projects": [
+        {
+            "name": "Portfolio",
+            "link": "https://github.com/jakobupton/react-portfolio",
+            "stack": ["React", "Node.js", "Tailwind"],
+            "description": "The website you're looking at! A personal project used to learn react and show off my projects and interests.",
+            "years": ["March 2024", "April 2024"]
+        },
+        {
+            "name": "Cinemate",
+            "link": "https://github.com/jakobupton/Cinemate",
+            "stack": ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
+            "description": "A mock movie-theater ticket booking website with a database backend. Features a login system, movie listings, and a cart system.",
+            "years": ["January 2024", "March 2024"]
+        },
+        {
+            "name": "Java Database Controller",
+            "link": "https://github.com/jakobupton/Java-Database-Controller",
+            "stack": ["Java", "MySQL", "Swing GUI"],
+            "description": "Java Swing GUI used to connect to a MySQL server and display databases. Has a function to remove or add elements, as well as a query box.",
+            "years": ["November 2022", "December 2022"]
+        }
+    ]
+}
