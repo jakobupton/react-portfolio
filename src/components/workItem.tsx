@@ -16,7 +16,7 @@ const WorkItem: React.FC<Props> = ({ occupation }) => {
         <div className="flex mb-5">
             <div>
                 <h4 className="text-white font-bold">{occupation.name} ({occupation.years.join("-")})</h4>
-                <p className="text-white font-thin">{occupation.description}</p>
+                <p className="text-white font-light">{occupation.description}</p>
                 <p className="text-white font-thin">{occupation.skills.join(" \u2022 ")}</p>
                 {/* <p className="text-white font-thin">{occupation.stack.join(" \u2022 ")}</p> */}
             </div>
